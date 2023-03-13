@@ -12,7 +12,7 @@ $ npm run start:dev
 $ npm run start:prod
 
 ## .env example
-NODE_ENV=development
+<p>NODE_ENV=development</p>
 JWT_SECRET=erg5e4ty
 PORT=5432
 DATABASE=youtube
