@@ -13,8 +13,8 @@ $ npm run start:prod
 
 ## .env example
 <p>NODE_ENV=development</p>
-JWT_SECRET=erg5e4ty
-PORT=5432
-DATABASE=youtube
-DB_USERNAME=postgres
-PASSWORD=123456
+<p>JWT_SECRET=erg5e4ty</p>
+<p>PORT=5432</p>
+<p>DATABASE=youtube</p>
+<p>DB_USERNAME=postgres</p>
+<p>PASSWORD=123456</p>
