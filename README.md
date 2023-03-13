@@ -11,7 +11,7 @@ $ npm run start:dev
 ### production mode
 $ npm run start:prod
 
-## .env example
+# .env example
 <p>NODE_ENV=development</p>
 <p>JWT_SECRET=erg5e4ty</p>
 <p>PORT=5432</p>
